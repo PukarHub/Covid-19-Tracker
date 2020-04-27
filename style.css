@@ -1,0 +1,19 @@
+body,html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./c0481846-wuhan_novel_coronavirus_illustration-spl.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#h1{
+    color: #fff;
+}
+
+#messageOut{
+    color: #fff;
+}
